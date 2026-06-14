@@ -15,37 +15,42 @@
 
 ## 🧠 Featured Projects
 
-### 🔹 AI Financial Decision System (RL)
-- PPO/DQN-based adaptive decision system  
-- Achieved 91% policy stability  
-- Built with PyTorch + Flask API
+## 🧠 Featured Projects
 
-👉 View Project
+### 🚀 [AI Financial Decision System](https://github.com/vanshpatel9669/AI-Financial-decision-System)
+
+AI-powered portfolio optimization platform that evaluates market signals and recommends allocation strategies through a reinforcement-learning-inspired policy engine.
+
+- Built with Python, Flask, Docker, NumPy
+- REST API for real-time portfolio recommendations
+- Simulates risk-aware allocation decisions using market volatility, momentum, drawdown, and liquidity metrics
+- Modular architecture designed for future PPO/DQN integration
+
+🔗 **Repository:** https://github.com/vanshpatel9669/AI-Financial-decision-System
 
 ---
 
-### 🔹 Insight-OS (AI Decision Platform)
-- Processes 1M+ records
+### 🚀 Insight-OS (AI Decision Platform)
+
+- Processes 1M+ records efficiently
 - Reduced false positives by 28%
-- Deployed with FastAPI + Docker
-
-👉 View Project
+- Built with FastAPI, Docker, and scalable ML pipelines
 
 ---
 
-### 🔹 Sentinel (Forecasting + Anomaly Detection)
+### 🚀 Sentinel (Forecasting & Anomaly Detection)
+
 - Improved forecast stability by 22%
 - Real-time anomaly detection pipeline
-
-👉 View Project
+- Time-series forecasting and monitoring framework
 
 ---
 
-### 🔹 Micro-expression Detection (CV)
-- CNN + temporal feature extraction  
-- Achieved 82% accuracy
+### 🚀 Micro-Expression Detection
 
-👉 View Project
+- CNN-based facial expression recognition
+- Temporal feature extraction pipeline
+- Achieved 82% classification accuracy
 
 ---
 
