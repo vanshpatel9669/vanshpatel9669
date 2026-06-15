@@ -42,9 +42,12 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 
 ### 🚀 Sentinel (Forecasting & Anomaly Detection)
 
-- Improved forecast stability by 22%
-- Real-time anomaly detection pipeline
-- Time-series forecasting and monitoring framework
+- Built an anomaly-aware forecasting platform using FastAPI and Python
+- Implemented CUSUM-based anomaly detection with operational risk scoring
+- Generated actionable incident recommendations through REST APIs
+- Improved forecast stability by 22% and reduced response latency by 35%
+
+🔗 **[View Repository](https://github.com/vanshpatel9669/Sentinel-Forecasting-and-Anomaly-Detection-)**
 
 ---
 
