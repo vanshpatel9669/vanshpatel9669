@@ -1,19 +1,22 @@
 # Hi, I'm Vansh Patel 👋  
 
-🚀 AI/ML Engineer | Backend Systems | Scalable ML Pipelines  
+🚀 AI/ML Engineer | Forward-Deployed AI Systems | Backend & Intelligent Decision Platforms
 
-🎓 MS CS (AI/ML) @ Stevens Institute of Technology  
+🎓 M.S. Computer Science (AI/ML) | Stevens Institute of Technology
+
+💡 Building production-grade AI systems, decision intelligence platforms, forecasting engines, and scalable ML infrastructure.
 
 ---
 
 ## ⚡ About Me
-- Building production-grade ML systems (1M+ records)
-- Specialized in forecasting, anomaly detection, RL systems
-- Passionate about deploying AI → real-world impact
+
+• Designed and deployed AI-driven decision systems processing 1M+ records
+• Specialized in Forecasting, Anomaly Detection, Reinforcement Learning, and Intelligent Automation
+• Building scalable APIs and ML platforms with FastAPI, Flask, Docker, and Python
+• Passionate about turning AI research into real-world business impact
 
 ---
 
-## 🧠 Featured Projects
 
 ## 🧠 Featured Projects
 
@@ -30,7 +33,7 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 
 ---
 
-### 🚀 Insight-OS (AI Decision Platform)
+### 🚀 [Insight-OS (AI Decision Platform)](https://github.com/vanshpatel9669/Insight-OS-AI-Decision-Platform)
 
 - Processes 1M+ records efficiently
 - Reduced false positives by 28%
@@ -40,7 +43,7 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 
 ---
 
-### 🚀 Sentinel (Forecasting & Anomaly Detection)
+### 🚀 [Sentinel (Forecasting & Anomaly Detection)](https://github.com/vanshpatel9669/Sentinel-Forecasting-and-Anomaly-Detection-)
 
 - Built an anomaly-aware forecasting platform using FastAPI and Python
 - Implemented CUSUM-based anomaly detection with operational risk scoring
@@ -58,6 +61,8 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 - Achieved 82% classification accuracy
 
 ---
+
+
 
 ## ⚙️ Tech Stack
 Languages: Python, Java, SQL  
