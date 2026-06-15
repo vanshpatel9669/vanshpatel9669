@@ -36,6 +36,8 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 - Reduced false positives by 28%
 - Built with FastAPI, Docker, and scalable ML pipelines
 
+🔗 **[View Repository](https://github.com/vanshpatel9669/Insight-OS-AI-Decision-Platform)**
+
 ---
 
 ### 🚀 Sentinel (Forecasting & Anomaly Detection)
