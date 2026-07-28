@@ -32,20 +32,19 @@
 
 AI-powered portfolio optimization platform that evaluates market signals and recommends allocation strategies through a reinforcement-learning-inspired policy engine.
 
-- Built with Python, Flask, Docker, NumPy
-- REST API for real-time portfolio recommendations
-- Simulates risk-aware allocation decisions using market volatility, momentum, drawdown, and liquidity metrics
-- Modular architecture designed for future PPO/DQN integration
+- Built a reinforcement learning–inspired portfolio optimization platform using Python, FastAPI, PyTorch, Stable-Baselines3, Gymnasium, and Docker
+- Implemented PPO/DQN training pipelines, backtesting engine, portfolio simulation, and REST APIs for intelligent allocation strategies
+- Designed modular ML architecture with reproducible experiments, automated testing, Dockerized deployment, and CI integration
 
-🔗 **Repository:** https://github.com/vanshpatel9669/AI-Financial-decision-System
+🔗 **[View Repository](https://github.com/vanshpatel9669/AI-Financial-decision-System)**
 
 ---
 
 ### 🚀 [Insight-OS (AI Decision Platform)](https://github.com/vanshpatel9669/Insight-OS-AI-Decision-Platform)
 
-- Processes 1M+ records efficiently
-- Reduced false positives by 28%
-- Built with FastAPI, Docker, and scalable ML pipelines
+ - Developed an enterprise decision-intelligence platform using FastAPI, MongoDB, LlamaIndex, SentenceTransformers, Docker, and semantic retrieval
+ - Built embedding search, reranking, configurable decision policies, structured logging, and observability pipelines
+ - Engineered scalable inference workflows with automated testing, Docker Compose, CI validation, and performance optimization
 
 🔗 **[View Repository](https://github.com/vanshpatel9669/Insight-OS-AI-Decision-Platform)**
 
@@ -53,10 +52,9 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 
 ### 🚀 [Sentinel (Forecasting & Anomaly Detection)](https://github.com/vanshpatel9669/Sentinel-Forecasting-and-Anomaly-Detection-)
 
-- Built an anomaly-aware forecasting platform using FastAPI and Python
-- Implemented CUSUM-based anomaly detection with operational risk scoring
-- Generated actionable incident recommendations through REST APIs
-- Improved forecast stability by 22% and reduced response latency by 35%
+- Built an intelligent forecasting and anomaly detection platform using TensorFlow/Keras, FastAPI, Python, Docker, and statistical process control
+- Implemented CUSUM-based drift detection, anomaly scoring, threshold recalibration, and real-time forecasting APIs
+- Developed reproducible ML pipelines with automated evaluation, visualization, Docker deployment, and CI-enabled testing
 
 🔗 **[View Repository](https://github.com/vanshpatel9669/Sentinel-Forecasting-and-Anomaly-Detection-)**
 
