@@ -67,7 +67,7 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 Languages: Python, Java, SQL  
 ML: PyTorch, TensorFlow, RL, NLP, CV  
 Backend: FastAPI, Flask  
-Infra: Docker, AWS, Kafka  
+Infra: Docker, AWS  
 
 ---
 
