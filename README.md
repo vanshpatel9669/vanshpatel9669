@@ -20,6 +20,14 @@
 
 ## 🧠 Featured Projects
 
+### 🚀 [TriageAI (Enterprise IT Ticket Intelligence Platform)](https://github.com/vanshpatel9669/TriageAI)
+
+- Designed an AI-powered IT ticket intelligence platform using FastAPI, Neo4j, Docker, and LLM-based reasoning to automate ticket classification and routing
+- Integrated semantic retrieval, configurable decision policies, audit trails, and prompt-injection safeguards for trustworthy AI-assisted workflows
+- Built a production-ready backend with containerized deployment, automated testing, evaluation pipelines, and CI-ready engineering practices
+
+🔗 **[View Repository](https://github.com/vanshpatel9669/TriageAI)**
+
 ### 🚀 [AI Financial Decision System](https://github.com/vanshpatel9669/AI-Financial-decision-System)
 
 AI-powered portfolio optimization platform that evaluates market signals and recommends allocation strategies through a reinforcement-learning-inspired policy engine.
