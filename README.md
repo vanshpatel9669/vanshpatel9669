@@ -10,7 +10,7 @@
 
 ## ⚡ About Me
 
-• Designed and deployed AI-driven decision systems processing 1M+ records
+• Designed and deployed AI-driven decision systems processing 
 • Specialized in Forecasting, Anomaly Detection, Reinforcement Learning, and Intelligent Automation
 • Building scalable APIs and ML platforms with FastAPI, Flask, Docker, and Python
 • Passionate about turning AI research into real-world business impact
