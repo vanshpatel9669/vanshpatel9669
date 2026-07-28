@@ -60,13 +60,6 @@ AI-powered portfolio optimization platform that evaluates market signals and rec
 
 ---
 
-### 🚀 Micro-Expression Detection
-
-- CNN-based facial expression recognition
-- Temporal feature extraction pipeline
-- Achieved 82% classification accuracy
-
----
 
 
 
